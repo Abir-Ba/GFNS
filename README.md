@@ -1,2 +1,2 @@
 # GFNS
-Gnenetic Neuro-Fuzzy System for diabetes prediction 
+Genetic Neuro-Fuzzy System for diabetes prediction 
